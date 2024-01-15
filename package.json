@@ -1,5 +1,5 @@
 {
-  "name": "node-escpos-addon",
+  "name": "node-escpos-windows",
   "version": "1.1.0",
   "description": "a cpp escpos plugin for nodejs and electron",
   "main": "./index.js",
@@ -26,6 +26,6 @@
   },
   "repository": {
     "type": "github",
-    "url": "https://github.com/boneVidy/node-escpos-addon"
+    "url": "https://github.com/boneVidy/node-escpos-windows"
   }
 }
