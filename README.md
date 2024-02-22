@@ -6,7 +6,8 @@ npm i node-escpos-windows --build-from-source --runtime=electron --target=7.1.2 
 #escpos native plugin for electron
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FboneVidy%2Fnode-escpos-windows.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FboneVidy%2Fnode-escpos-windows?ref=badge_shield)
 
-#目前只支持 windows系统
+# 目前只支持 windows系统
+# 支持 node 12 版本
 ```js
 // usb printer
 const iconv = require('iconv-lite');
