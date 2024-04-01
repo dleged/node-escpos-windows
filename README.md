@@ -1,3 +1,6 @@
+
+在 boneVidy/node-escpos-addon 的基础上修改，支持了 node 12 的版本。
+
 ---
 ```
 npm i node-escpos-windows --build-from-source --runtime=electron --target=7.1.2 --target-arch=ia32 --dist-url=https://atom.io/download/electron
